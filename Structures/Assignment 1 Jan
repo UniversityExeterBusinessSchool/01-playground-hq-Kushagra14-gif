@@ -1,9 +1,12 @@
 # My Structure - Student XX
 
 ## What I See in My Data
-w-----w
-HEIGHT: 1
-WIDTH: 1
+W W W W W
+W W W W W
+W W W W W
+HEIGHT: 3
+WIDTH: 5
+TYPE: WALL_PANEL
 COLOR: PURPLE
 
 ## What I Think This Means
